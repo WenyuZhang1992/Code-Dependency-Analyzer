@@ -1,0 +1,53 @@
+========== Dependency Relationship ==========
+
+  <Dependency-Relationship>
+    <file>
+      <file-name>
+        Y:\Documents\Visual Studio 2015\Projects\Project2\TestExecutive\TestFolder\Test1.h
+      </file-name>
+      <dependencies>
+        <dependency>
+          Y:\Documents\Visual Studio 2015\Projects\Project2\TestExecutive\TestFolder\Test1.cpp
+        </dependency>
+      </dependencies>
+    </file>
+    <file>
+      <file-name>
+        Y:\Documents\Visual Studio 2015\Projects\Project2\TestExecutive\TestFolder\Test1.cpp
+      </file-name>
+      <dependencies>
+        <dependency>
+          Y:\Documents\Visual Studio 2015\Projects\Project2\TestExecutive\TestFolder\Test1.h
+        </dependency>
+      </dependencies>
+    </file>
+    <file>
+      <file-name>
+        Y:\Documents\Visual Studio 2015\Projects\Project2\TestExecutive\TestFolder\Test2.cpp
+      </file-name>
+      <dependencies>
+      </dependencies>
+    </file>
+  </Dependency-Relationship>
+
+========== Strong Components ==========
+
+  <Strong-Components-Result>
+    <strong-components>
+      <files>
+        <file-name>
+          Y:\Documents\Visual Studio 2015\Projects\Project2\TestExecutive\TestFolder\Test1.cpp
+        </file-name>
+        <file-name>
+          Y:\Documents\Visual Studio 2015\Projects\Project2\TestExecutive\TestFolder\Test1.h
+        </file-name>
+      </files>
+    </strong-components>
+    <strong-components>
+      <files>
+        <file-name>
+          Y:\Documents\Visual Studio 2015\Projects\Project2\TestExecutive\TestFolder\Test2.cpp
+        </file-name>
+      </files>
+    </strong-components>
+  </Strong-Components-Result>
